@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="458fdb05-1b60-4e4b-bc5e-6af1ea40eb66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/DIP/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/DIP/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/DIP/Interfaces/IBankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/DIP/ShoppingMall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/DIP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/ISP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/FacebookSocialMediaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/InstagramSocialMediaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/MediumFactory/FacebookMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/MediumFactory/InstagramMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/MediumFactory/WhatsAppMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/WhatsAppSocialMediaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/interfaces/IPostMediaManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/interfaces/ISocialMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/interfaces/IVideoCallManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/LSP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/EmailNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/INotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/EmailMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/IMediumFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/INotificationMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/MediumFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/MediumTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/SMSMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/MediumFactory/WhatsAppMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/NotificationFactory/NotificationFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/SMSNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/WhatsAppNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/OCP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/SRP/BankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/SRP/LoanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/SRP/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/SRP/PrinterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/SRP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johnifegwu/readme.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gx6rDOg8vxN7onl3sM7QP1xTH3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Johni/SOLID Design Parterns/SOLID/src/main/java/com/johnifegwu/LSP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/Johni/SOLID Design Parterns/SOLID/src/main/java/com/johnifegwu/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Johni\SOLID Design Parterns\SOLID\src\main\java\com\johnifegwu\LSP" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="458fdb05-1b60-4e4b-bc5e-6af1ea40eb66" name="Changes" comment="" />
+      <created>1716627084322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716627084322</updated>
+      <workItem from="1716627085586" duration="14323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
